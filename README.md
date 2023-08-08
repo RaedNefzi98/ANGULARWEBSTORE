@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-If you have any questions or need assistance, please reach out to our team at [contact@example.com](mailto:contact@example.com). We're here to help!
+If you have any questions or need assistance, please reach out to our team at [raednefzi1998@gmail.com](raednefzi1998@gmail.com). We're here to help!
 
 Enjoy your shopping experience with the Angular Ecommerce Web Store!
 
